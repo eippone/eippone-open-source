@@ -209,5 +209,5 @@ Consultant, Data & Analytics
 
 
 
-> *We don’t predict the future — we simulate its extremes.*
+ *We don’t predict the future — we simulate its extremes.*
 
