@@ -1,7 +1,9 @@
-# 🌌 EIPPONE Simulation Dynamics — Open Research
-
+ ![Project Header Image](images/hero.png)  
+ <div align="center">
+  
 **Open-Source Strategic Pillar of EIPPONE**
-
+</div>
+ 
 EIPPONE Simulation Dynamics (Open Research) is the **public, open-science layer** of the broader EIPPONE ecosystem.
 
 This repository is dedicated to:
